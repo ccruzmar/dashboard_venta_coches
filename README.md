@@ -32,5 +32,10 @@ El dataset proviene de anuncios de venta de vehículos usados en Estados Unidos.
 
 ---
 
+##  Despliegue en Render
+
+La aplicación está disponible en la siguiente URL pública:
+
+🔗 [https://dashboard-venta-coches.onrender.com]
 
 
